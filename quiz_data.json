@@ -1,0 +1,1117 @@
+{
+	"Experiment 1: Measurement of total protein content in the given sample": [
+		{
+			"question": "To test for protein, a food sample must first be",
+			"options": [
+				"Ground up in water",
+				"Ground up in sodium hydroxide",
+				"Added to ethanol and mixed",
+				"Ground up in ethanol"
+			],
+			"correct_option": "Ground up in water"
+		},
+		{
+			"question": "Tyrosine and tryptophan present in the protein reduce",
+			"options": [
+				"Bovine serum albumin",
+				"Phosphomolybdate",
+				"Sodium Potassium Tartarate",
+				"potassium sulphate"
+			],
+			"correct_option": "Phosphomolybdate"
+		},
+		{
+			"question": "In a spectrophotometer, optimum wavelength chosen to measure total protein depends on",
+			"options": [
+				"Extent of absorption by the protein",
+				"Concentration of protein",
+				"None",
+				"Both"
+			],
+			"correct_option": "Extent of absorption by the protein"
+		},
+		{
+			"question": "Phosphomolybdate is reduced by ------ in the protein",
+			"options": ["None", "Tryptophan", "Both", "Tyrosine"],
+			"correct_option": "Both"
+		},
+		{
+			"question": "Diluted Folin is mixed immediately with sample to --------------",
+			"options": [
+				"Avoid turbidity",
+				"Avoid decomposition of the reagent",
+				"None",
+				"Avoid formation of colour"
+			],
+			"correct_option": "Avoid decomposition of the reagent"
+		},
+		{
+			"question": "In Biuret's reaction, copper reacts with ----- atoms of the peptides to form a cuprous complex?",
+			"options": [
+				"Hydroxide ion",
+				"Carbon atoms of the carboxyl group",
+				"Nitrogen atoms of peptides",
+				"Sulphur atoms of the methionine and cysteine"
+			],
+			"correct_option": "Nitrogen atoms of peptides"
+		},
+		{
+			"question": "Isoelectric point is the pH at which a molecule has:",
+			"options": [
+				"Positive charge",
+				"No charge",
+				"Negative charge",
+				"none"
+			],
+			"correct_option": "No charge"
+		}
+	],
+	"Experiment 2: Measurement of glucose concentration in the given sample": [
+		{
+			"question": "Absorbance and concentration have a _________ relation",
+			"options": ["None", "Quadratic", "Exponential", "Linear"],
+			"correct_option": "Linear"
+		},
+		{
+			"question": "At which wavelength do we take reading in a spectrophotometer while performing the experiment of glucose quantification?",
+			"options": ["740 nm", "780 nm", "420 nm", "650 nm"],
+			"correct_option": "420 nm"
+		},
+		{
+			"question": "How much energy is formed from 1 mole of glucose?",
+			"options": ["7600 kcal", "5400 kcal", "7789 kcal", "7300 kcal"],
+			"correct_option": "7300 kcal"
+		},
+		{
+			"question": "Glucose in urine is quantified by oxidation to",
+			"options": [
+				"Gluconic acid",
+				"Aldehyde group",
+				"Glucose",
+				"phosphomolybdic acid"
+			],
+			"correct_option": "Gluconic acid"
+		},
+		{
+			"question": "Glucose is metabolized inside our body mainly by which process/es",
+			"options": [
+				"Glycolysis and Kreb's cycle",
+				"None",
+				"Phosphorylation and dephosphorylation",
+				"Electron transport chain"
+			],
+			"correct_option": "Glycolysis and Kreb's cycle"
+		},
+		{
+			"question": "Which optical form of glucose is naturally present and readily absorbed by our body",
+			"options": ["L-Glucose", "Both", "None", "D-Glucose"],
+			"correct_option": "D-Glucose"
+		},
+		{
+			"question": "In GOD/POD method, ------------ is the oxidising agent and ---------- produces red coloration.",
+			"options": [
+				"Glucose oxidase, peroxidase",
+				"Peroxidase, Gluconic acid",
+				"Peroxidase, Glucose oxidase",
+				"Gluconic acid, Peroxidase"
+			],
+			"correct_option": "Glucose oxidase, peroxidase"
+		},
+		{
+			"question": "In Beer-Lamberts Law, the ratio of I/I o ? gives us___________",
+			"options": [
+				"Concentration",
+				"Absorbance",
+				"Molar absorptivity",
+				"Transmittance"
+			],
+			"correct_option": "Transmittance"
+		},
+		{
+			"question": "Absorbance is A=0, when transmittance T =",
+			"options": ["70%", "100%", "0%", "30%"],
+			"correct_option": "100%"
+		}
+	],
+	"Experiment 3: Measurement of mitotic index and duration of mitosis in the given plant tissue": [
+		{
+			"question": "Cells will generally divide when ----",
+			"options": [
+				"they become too large",
+				"they become infected",
+				"they have no food",
+				"they are 10 hours old"
+			],
+			"correct_option": "they become too large"
+		},
+		{
+			"question": "In mitotic cell division:",
+			"options": [
+				"Number of chromosomes are doubled at the end",
+				"There is no division of chromosomes",
+				"Number of chromosomes remain unchanged",
+				"Number of chromosomes is reduced to half"
+			],
+			"correct_option": "Number of chromosomes remain unchanged"
+		},
+		{
+			"question": "Chromosomes start separating at which stage of mitosis",
+			"options": [
+				"Early metaphase",
+				"Early anaphase",
+				"Early telophase",
+				"Late metaphase"
+			],
+			"correct_option": "Early anaphase"
+		},
+		{
+			"question": "Chromosomes are arranged along the equatorial plate during ____",
+			"options": ["Prophase", "Anaphase", "Telophase", "Metaphase"],
+			"correct_option": "Metaphase"
+		},
+		{
+			"question": "In the cell cycle, Mitotic phase occurs after the",
+			"options": ["G0 phase", "G1 phase", "S phase", "G2 phase"],
+			"correct_option": "G2 phase"
+		},
+		{
+			"question": "The event which does not occur during interphase, is",
+			"options": [
+				"Protein Synthesis",
+				"DNA replication",
+				"Organelles replication",
+				"Chromatin condenses"
+			],
+			"correct_option": "Chromatin condenses"
+		},
+		{
+			"question": "The frequency of a mitotic cell when there are 136 mitotic cells in a culture of 300 cells is:",
+			"options": ["2.20", "136", "0.45", "0.90"],
+			"correct_option": "0.45"
+		},
+		{
+			"question": "The frequency of a mitotic cell when there are 224 mitotic cells in a culture of 630 cells is:",
+			"options": ["235", "0.35", "2.88", "0.37"],
+			"correct_option": "0.35"
+		},
+		{
+			"question": "Acetocarmine is a saturated solution of carmine in 45% acetic acid used especially for the rapid staining of fresh unfixed chromosomes.",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "In a healthy onion cell, the diploid chromosome number (2n) is 16. Total number of chromosomes during anaphase will be:",
+			"options": ["8", "32", "24", "16"],
+			"correct_option": "32"
+		}
+	],
+	"Experiment 4.a: Measurement of Haemoglobin content in human blood": [
+		{
+			"question": "The amount of physically dissolved oxygen is about 2ml per liter of blood",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "The iron bound to the Hb is in ______ form",
+			"options": ["None", "Fe", "Fe", "Fe"],
+			"correct_option": "Fe+2"
+		},
+		{
+			"question": "In the normal human body, the Hb polypeptide chains are in the form of ______",
+			"options": ["α₂β₂", "α₂δ₂", "β₂γ₂", "αβγδ"],
+			"correct_option": "α₂β₂"
+		},
+		{
+			"question": "What would happen to red blood cells if the haem group were removed from haemoglobin?",
+			"options": [
+				"White blood cells would not be able to reproduce.",
+				"Red blood cells would not be able to bind oxygen.",
+				"Blood clot formation would be inhibited.",
+				"Red blood cells would not be able to reproduce."
+			],
+			"correct_option": "Red blood cells would not be able to bind oxygen."
+		},
+		{
+			"question": "When hemoglobin is treated with HCl, it is converted into hematinic acid.",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "Each hemoglobin molecule binds to how many divalent iron (Fe) of each porphyrin unit?",
+			"options": ["1", "3", "4", "2"],
+			"correct_option": "1"
+		},
+		{
+			"question": "What is formed when HCl is added to blood haemoglobin?",
+			"options": [
+				"Hematinic acid",
+				"Nucleic acid",
+				"Hemic acid",
+				"Hemanicic acid"
+			],
+			"correct_option": "Hematinic acid"
+		}
+	],
+	"Experiment 4.b: Determination of ABO-Rh Blood Typing": [
+		{
+			"question": "Hemolytic jaundice of newborn happens when_____",
+			"options": [
+				"Mother is Rh positive; father is Rh positive, and child is Rh negative",
+				"Mother is Rh negative; father is Rh positive, and child is Rh positive",
+				"Mother is Rh positive; father is Rh negative, and the child is Rh negative",
+				"Mother is Rh negative; father is Rh positive, and child is Rh negative"
+			],
+			"correct_option": "Mother is Rh negative; father is Rh positive, and child is Rh positive"
+		},
+		{
+			"question": "Agglutinins are present on the surface of the RBC.",
+			"options": ["True", "False"],
+			"correct_option": "False"
+		},
+		{
+			"question": "If one of your parents is blood type A and the other is blood type B, which of the following blood types would you likely be?",
+			"options": ["A", "O", "either A, B, AB or O", "B"],
+			"correct_option": "either A, B, AB or O"
+		},
+		{
+			"question": "Agglutinins are also known as antibodies",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "agglutinogens are antigenic substances present in blood cells, bacteria, etc., which stimulates the formation of an agglutinin in blood serum.",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "On what basis is blood group classified?",
+			"options": [
+				"pulse rate",
+				"Oxygen content",
+				"Antigen and antibodies",
+				"Haemoglobin"
+			],
+			"correct_option": "Antigen and antibodies"
+		},
+		{
+			"question": "Clumping of cells (bacteria and RBCs) due to antibody antigen reaction is known as",
+			"options": ["clotting", "Glutathione", "mutation", "agglutination"],
+			"correct_option": "agglutination"
+		},
+		{
+			"question": "Erythroblastosis fetalis happens _______",
+			"options": [
+				"When the mother is Rh negative and the child is Rh negative",
+				"When mother is Rh negative and the child is Rh positive",
+				"When the mother is Rh positive and the child is also Rh positive",
+				"When mother is Rh positive and the child is Rh negative"
+			],
+			"correct_option": "When mother is Rh negative and the child is Rh positive"
+		}
+	],
+	"Experiment 5: Quantitation of DNA": [
+		{
+			"question": "Purpose of using NaCl while extracting DNA is",
+			"options": [
+				"to dehydrate the DNA inside the cell",
+				"to have preservative in the working solution",
+				"none of the answers",
+				"to give osmotic shock to the cells"
+			],
+			"correct_option": "to give osmotic shock to the cells"
+		},
+		{
+			"question": "Which of the following statement is true of DNA damage?",
+			"options": [
+				"All DNA damage is caused by biological agents",
+				"All DNA damage results in diseases such as cancer",
+				"Most DNA damage is repaired by the cell",
+				"Most DNA damage is advantageous to the cell"
+			],
+			"correct_option": "Most DNA damage is repaired by the cell"
+		},
+		{
+			"question": "Which one of the following statement is incorrect?",
+			"options": [
+				"The two DNA strands are \"antiparallel\"; that is, one strand runs 5′ to 3′ while the other runs 3′ to 5",
+				"Dye Ethidium bromide intercalates between the nitrogenous bases",
+				"The backbone of each consists of parallel deoxyribose and phosphate groups.",
+				"Histone proteins associated with DNA"
+			],
+			"correct_option": "The backbone of each consists of parallel deoxyribose and phosphate groups."
+		},
+		{
+			"question": "The action of proteases removes one of the below proteins associated with DNA",
+			"options": ["Albumin", "Histones", "Tubulins", "Keratins"],
+			"correct_option": "Histones"
+		},
+		{
+			"question": "Which of the following statement is true?",
+			"options": [
+				"Each DNA molecule is a single gene.",
+				"DNA molecules are in the shape of a double helix.",
+				"Amino acids are the building blocks of DNA",
+				"All of our DNA is normally located in the nucleus of our cells."
+			],
+			"correct_option": "DNA molecules are in the shape of a double helix."
+		},
+		{
+			"question": "Pineapple juice is used in DNA extraction experiment. Because, it helps to",
+			"options": [
+				"Separates the two strands",
+				"Remove histone proteins",
+				"Makes the DNA strand stronger",
+				"Remove hydrogen bonds"
+			],
+			"correct_option": "Remove histone proteins"
+		},
+		{
+			"question": "Nucleic acid homology studies can help us determine our",
+			"options": ["ontogeny", "none", "phylogeny", "epigenetics"],
+			"correct_option": "phylogeny"
+		},
+		{
+			"question": "The diameter of the DNA helix is",
+			"options": ["34 Å", "25 Å", "20 Å", "15 Å"],
+			"correct_option": "20 Å"
+		},
+		{
+			"question": "The DNA code is:",
+			"options": [
+				"None",
+				"shared by all living things",
+				"found only in mammals",
+				"unique to humans"
+			],
+			"correct_option": "shared by all living things"
+		}
+	],
+	"Experiment 6: Determination of the Km of phosphatase enzyme": [
+		{
+			"question": "K , the rate constant is termed for which of the following",
+			"options": [
+				"Dissociation of product from enzyme",
+				"Association of substrate and enzyme",
+				"Dissociation of unaltered substance from enzyme",
+				"All"
+			],
+			"correct_option": "All"
+		},
+		{
+			"question": "Km of an enzyme is high for a given substrate. This means that",
+			"options": [
+				"Affinity of the enzyme for that substrate is high",
+				"Substrate has many hydrogen bonds",
+				"Substrate has arginine molecules on its surface",
+				"Affinity of the enzyme for that substrate is low"
+			],
+			"correct_option": "Affinity of the enzyme for that substrate is low"
+		}
+	],
+	"Experiment 7: Separation of chlorophyll pigments by paper chromatography": [
+		{
+			"question": "Paper chromatography separates compounds on a paper by which mechanism:",
+			"options": [
+				"Diffusion action",
+				"all",
+				"Capillary action",
+				"osmosis"
+			],
+			"correct_option": "Capillary action"
+		},
+		{
+			"question": "Photosynthetic pigment responsible for the emission of electrons during cyclic and non-cyclic photophosphorylation is",
+			"options": [
+				"Chlorophyll A",
+				"Chlorophyll D",
+				"Chlorophyll C",
+				"Chlorophyll B"
+			],
+			"correct_option": "Chlorophyll A"
+		},
+		{
+			"question": "Using paper chromatography, the Rf value for xanthophylls was 0.4 and the value for chlorophyll a was 0.7. What is true for these two pigments?",
+			"options": [
+				"chlorophyll a travel farther up the paper than xanthophylls",
+				"chlorophyll a is more polar than xanthophylls",
+				"Xanthophyll is more soluble than chlorophyll a",
+				"chlorophyll a is a larger molecule than xanthophylls"
+			],
+			"correct_option": "chlorophyll a travel farther up the paper than xanthophylls"
+		},
+		{
+			"question": "An accessory pigment that transfers absorbed energy to Chl a is",
+			"options": ["Chl b", "Chl a", "Chl d", "Chl e"],
+			"correct_option": "Chl b"
+		}
+	],
+	"Experiment 8: Study the phenomenon of plasmolysis in onion peel": [
+		{
+			"question": "A cell in an isotonic solution, has an inflow of water due to the result of",
+			"options": [
+				"High external osmotic pressure",
+				"High internal osmotic pressure",
+				"Low internal osmotic pressure",
+				"Low external osmotic pressure"
+			],
+			"correct_option": "High external osmotic pressure"
+		},
+		{
+			"question": "Cytorrhysis, which occurs after plasmolysis results in",
+			"options": [
+				"Excess water gain",
+				"Cell peeling away from the cell wall",
+				"Excess water loss",
+				"Complete collapse of the cell wall"
+			],
+			"correct_option": "Complete collapse of the cell wall"
+		},
+		{
+			"question": "For osmosis to occur, the membrane should be ______",
+			"options": ["Permeable", "None", "Semipermeable", "Non Permeable"],
+			"correct_option": "Semipermeable"
+		},
+		{
+			"question": "Prolonged exposure of the cell in hypertonic solution can eventually lead to ______.",
+			"options": ["Osmosis", "Cytorrhysis", "Plasmolysis", "Cytolysis"],
+			"correct_option": "Cytorrhysis"
+		},
+		{
+			"question": "When a cell is placed in a hypertonic solution, what makes it flaccid?",
+			"options": [
+				"Negative pressure",
+				"None",
+				"Positive pressure",
+				"Turgor pressure"
+			],
+			"correct_option": "Turgor pressure"
+		},
+		{
+			"question": "When placed in ---------, plants tend to wilt",
+			"options": [
+				"Hypertonic Solution",
+				"Excess water",
+				"Hypotonic Solution",
+				"None"
+			],
+			"correct_option": "Hypertonic Solution"
+		},
+		{
+			"question": "----------- prevents the plant from drying out.",
+			"options": ["Xylem", "Stomata", "Xanthophyll", "Chlorophyll"],
+			"correct_option": "Stomata"
+		},
+		{
+			"question": "Which part of the onion leaf was taken for studying osmosis?",
+			"options": ["Endodermis", "Epidermis", "Mesodermis", "Cortex"],
+			"correct_option": "Epidermis"
+		},
+		{
+			"question": "The distance between the plasma membrane and the cell wall increase when plant cells are dipped in",
+			"options": [
+				"0.25% salt water",
+				"Seawater",
+				"Water at pH 7.0",
+				"0.1% NaCl solution"
+			],
+			"correct_option": "Seawater"
+		},
+		{
+			"question": "After swimming in the dead sea you will feel thirsty",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "A student is trying to culture haloarchaea (organisms found in salt pans) in the lab. You notice that the student used distilled water for the preparation of media. What will happen to the haloarchaeal cells?",
+			"options": [
+				"The cells will bulge and lyse",
+				"Dense growth will be obtained",
+				"The cells will shrink",
+				"No net change"
+			],
+			"correct_option": "The cells will bulge and lyse"
+		},
+		{
+			"question": "Prolonged exposure of the cell in hypertonic solution can eventually lead to ______.",
+			"options": ["Plasmolysis", "Cytorrhysis", "Osmosis", "Cytolysis"],
+			"correct_option": "Cytorrhysis"
+		},
+		{
+			"question": "The distance between the plasma membrane and the cell wall increase when plant cells are dipped in",
+			"options": [
+				"0.1% NaCl solution",
+				"0.25% salt water",
+				"Water at pH 7.0",
+				"Seawater"
+			],
+			"correct_option": "Seawater"
+		},
+		{
+			"question": "When cell is placed in 0.75 M concentrated sugar solution, there is no change in it. The concentration of cell sap would be",
+			"options": ["0.25M", "0.75M", "25M", "5M"],
+			"correct_option": "0.75M"
+		},
+		{
+			"question": "The following help plants retain water",
+			"options": ["Stomata", "Wax", "Both", "None"],
+			"correct_option": "Both"
+		}
+	],
+	"Experiment 9.a: Determination of the level of total cholesterol present in serum": [
+		{
+			"question": "Cholesterol is a precursor for the biosynthesis of....",
+			"options": ["Vitamin D", "Bile acids", "All", "Steroid hormones"],
+			"correct_option": "All"
+		},
+		{
+			"question": "Cholesterol is excreted via:",
+			"options": ["Intestines", "All", "Gall bladder", "Skin"],
+			"correct_option": "All"
+		},
+		{
+			"question": "Cholesterol is not essential for",
+			"options": [
+				"Formation of bile acids",
+				"Formation of cell membrane",
+				"Formation of phosphatase enzyme",
+				"Formation of steroid hormones"
+			],
+			"correct_option": "Formation of phosphatase enzyme"
+		},
+		{
+			"question": "Fatty acids are produced in the reaction catalysed by",
+			"options": [
+				"Homocystein",
+				"Peroxidase",
+				"Cholesterol Oxidase",
+				"Cholesterol Esterase"
+			],
+			"correct_option": "Cholesterol Esterase"
+		},
+		{
+			"question": "In the cholesterol experiment, the wavelength used to measure the sample was ?",
+			"options": ["505 nm", "420 nm", "340 nm", "720 nm"],
+			"correct_option": "505 nm"
+		},
+		{
+			"question": "Secondary hyperlipidaemia, condition which occurs within the framework of a disease due to -----------",
+			"options": [
+				"Increase in blood lipids",
+				"Decrease in Vitamin D",
+				"Increase in Vitamin D",
+				"Decrease in blood lipids"
+			],
+			"correct_option": "Increase in blood lipids"
+		},
+		{
+			"question": "Increased homocystein levels lead to damages at the endothelium of blood vessels due to",
+			"options": [
+				"Vitamin D deficiency",
+				"Vitamin B complex deficiency",
+				"Vitamin A deficiency",
+				"Vitamin E deficiency",
+				"Vitamin C deficiency"
+			],
+			"correct_option": "Vitamin B complex deficiency"
+		},
+		{
+			"question": "Hyperhomocysteinaemia is rated as an independent risk factor for atherosclerotic angiopathies.",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "Cholesterol Ester and Water react and break down to = Cholesterol + Fatty acids in the presence of",
+			"options": [
+				"Alcohol",
+				"Lipid",
+				"Cholesterol Esterase",
+				"Hydrogen peroxide"
+			],
+			"correct_option": "Cholesterol Esterase"
+		},
+		{
+			"question": "Cholesterol is a precursor for the biosynthesis of....",
+			"options": ["Vitamin D", "All", "Steroid hormones", "Bile acids"],
+			"correct_option": "All"
+		},
+		{
+			"question": "Fatty acids are produced in the reaction catalysed by",
+			"options": [
+				"Cholesterol Esterase",
+				"Homocystein",
+				"Cholesterol Oxidase",
+				"Peroxidase"
+			],
+			"correct_option": "Cholesterol Esterase"
+		},
+		{
+			"question": ". ----------- is a metabolic disease based on the increased synthesis or delayed decomposition of lipoproteins transporting cholesterol and triglycerides in the blood plasma.",
+			"options": [
+				"diabetes mellitus",
+				"Hyperhomocysteinaemia",
+				"Hyperlipoproteinaemias",
+				"Hyperlipidaemia"
+			],
+			"correct_option": "Hyperlipoproteinaemias"
+		},
+		{
+			"question": "Increased ---------- levels lead to damages of the endothelium in blood vessels:",
+			"options": [
+				"Plasmalipoprotein",
+				"Cholesterol",
+				"Triglycerides",
+				"Homocystein"
+			],
+			"correct_option": "Homocystein"
+		}
+	],
+	"Experiment 10: Measurement of Blood Pressure": [
+		{
+			"question": "When does the sound becomes muffled and disappears while measuring blood pressure?",
+			"options": [
+				"when the heart rate decreases",
+				"when pressure increases in the vessel",
+				"when the heart rate increase",
+				"when pressure decreases in the vessel"
+			],
+			"correct_option": "when pressure decreases in the vessel"
+		},
+		{
+			"question": "The pressure in the arteries at the beginning of the cardiac cycle is ____",
+			"options": [
+				"Systolic Pressure",
+				"Diastolic Pressure",
+				"Mean Pressure",
+				"Pulse Pressure"
+			],
+			"correct_option": "Diastolic Pressure"
+		},
+		{
+			"question": "High blood pressure puts you at risk for which of the following?",
+			"options": ["Stroke", "Heart disease", "All", "Kidney disease"],
+			"correct_option": "All"
+		},
+		{
+			"question": "Hypertension refers to arterial pressure being abnormally",
+			"options": ["Low", "Oscillating", "High", "Periodic"],
+			"correct_option": "High"
+		},
+		{
+			"question": "If a person has a systolic reading of 118 and a diastolic reading of 78, what will be that person's pulse pressure?",
+			"options": ["118/78", "78/118", "40", "98"],
+			"correct_option": "40"
+		},
+		{
+			"question": "When does the sound becomes muffled and disappear while measuring blood pressure?",
+			"options": [
+				"when the heart rate increase",
+				"when pressure decreases in the vessel",
+				"when pressure increases in the vessel",
+				"when the heart rate decreases"
+			],
+			"correct_option": "when pressure decreases in the vessel"
+		},
+		{
+			"question": "Vasodilators are used to maintain blood pressure by",
+			"options": [
+				"increasing arterial pressure",
+				"decrease viscosity",
+				"decreasing arterial pressure",
+				"increase viscosity"
+			],
+			"correct_option": "decreasing arterial pressure"
+		},
+		{
+			"question": "What can you do to control high blood pressure ?",
+			"options": [
+				"Avoid smoking",
+				"All",
+				"Stress Management",
+				"Avoid alcohol"
+			],
+			"correct_option": "All"
+		},
+		{
+			"question": "Resistance to blood flow depends on:",
+			"options": [
+				"None",
+				"Vessel radius",
+				"Both Vessel length and radius",
+				"Vessel Length"
+			],
+			"correct_option": "Both Vessel length and radius"
+		},
+		{
+			"question": "Systolic pressure is peak pressure in arteries, when the ventricles are",
+			"options": ["contracting", "relaxed", "expanding", "All"],
+			"correct_option": "contracting"
+		},
+		{
+			"question": "The amount of blood pumped out from the heart with each contraction is called",
+			"options": [
+				"stroke volume",
+				"mean blood pressure",
+				"flow rate",
+				"heart rate"
+			],
+			"correct_option": "stroke volume"
+		},
+		{
+			"question": "The normal blood pressure of an adult is",
+			"options": ["140/90", "120/80", "80/120", "110/65"],
+			"correct_option": "120/80"
+		},
+		{
+			"question": "Which instrument is used to measure blood pressure?",
+			"options": [
+				"spinmammometer",
+				"sphygmomanometer",
+				"barometer",
+				"thermometer"
+			],
+			"correct_option": "sphygmomanometer"
+		},
+		{
+			"question": "3:2:1 ratio can be used as a diagnostic tool which refers to",
+			"options": [
+				"pulse pressure: systolic: diastolic",
+				"systolic: pulse pressure: diastolic",
+				"systolic: diastolic: pulse pressure",
+				"pulse pressure: diastolic: systolic"
+			],
+			"correct_option": "systolic: diastolic: pulse pressure"
+		},
+		{
+			"question": "Dietary salt intake increases blood volume, this happens because",
+			"options": [
+				"low arterial pressure",
+				"high cardiac output",
+				"low cardiac output",
+				"high arterial pressure"
+			],
+			"correct_option": "high arterial pressure"
+		},
+		{
+			"question": "Increase in blood pressure means",
+			"options": [
+				"Increase in lateral pressure of blood on vessel walls",
+				"Increase in longitudinal pressure in the blood vessel",
+				"Increase in pressure of blood in the ventricles only",
+				"Increase of the pressure of blood on the heart valves"
+			],
+			"correct_option": "Increase in lateral pressure of blood on vessel walls"
+		}
+	],
+	"Experiment 11: Observation of permanent slides and comments": [
+		{
+			"question": "Focusing of specimen in microscope is done by adjusting the distance between _________ and the _________.",
+			"options": [
+				"eyepiece lens & specimen",
+				"specimen & objective lens",
+				"eyepiece & objective lens",
+				"specimen & mirror"
+			],
+			"correct_option": "specimen & objective lens"
+		},
+		{
+			"question": "Name the parts of the microscope",
+			"options": [
+				"eye piece, fine adjustment, base, stage, coarse adjustment, light source, arm, condenser, objective, nose"
+			],
+			"correct_option": "1 → eye piece, 10 → fine adjustment, 7 → base, 4 → stage, 9 → coarse adjustment, 6 → light source, 8 → arm, 5 → condenser, 3 → objective, 2 → nose"
+		},
+		{
+			"question": "Paramecium is observed to have:",
+			"options": ["All", "Cilia", "Contractile vacuole", "Food vacuole"],
+			"correct_option": "All"
+		},
+		{
+			"question": "What is the cavity that surrounds the oocyte in Graafian follicle called?",
+			"options": [
+				"Antrum",
+				"Zona pellucida",
+				"Tunica albuginea",
+				"Corona radiata"
+			],
+			"correct_option": "Antrum"
+		},
+		{
+			"question": "The uterus contains a smooth muscle layer that has the ability of contraction. This layer is known as ______.",
+			"options": [
+				"Myometrium",
+				"Endothelium",
+				"Endometrium",
+				"Perimetrium"
+			],
+			"correct_option": "Myometrium"
+		},
+		{
+			"question": "The seminiferous tubule consists of:",
+			"options": ["Spermatids", "All", "Sertoli cells", "Spermium"],
+			"correct_option": "All"
+		},
+		{
+			"question": "Testosterone producing cells are called:",
+			"options": [
+				"Somatic cells",
+				"Sperm cells",
+				"Leydig cells",
+				"Sertoli cells"
+			],
+			"correct_option": "Leydig cells"
+		},
+		{
+			"question": "Match the following Uterus, spermatogenesis, Sertoli cells, Alveoli",
+			"options": [
+				"Endometrium, Both Mitosis and Meiosis, Nurse cells, air sacs"
+			],
+			"correct_option": "Uterus → Endometrium, spermatogenesis → Both Mitosis and Meiosis, Sertoli cells → Nurse cells, Alveoli → air sacs"
+		}
+	],
+	"Experiment 12: Computational annotation of nucleic acids and proteins": [
+		{
+			"question": "Alignment method suitable for aligning closely related sequence is:",
+			"options": [
+				"global alignment",
+				"local alignment",
+				"multiple sequence alignment",
+				"pairwise alignment"
+			],
+			"correct_option": "global alignment"
+		},
+		{
+			"question": "Among the following which one is not the approach to local alignment?",
+			"options": [
+				"Smith-Waterman algorithm",
+				"K-tuple method",
+				"Needleman-Wunsch algorithm",
+				"Words method"
+			],
+			"correct_option": "Needleman-Wunsch algorithm"
+		},
+		{
+			"question": "Among the following which one is not the approach for local alignment?",
+			"options": [
+				"Words method",
+				"K-tuple method",
+				"Smith-Waterman algorithm",
+				"Needleman-Wunsch algorithm"
+			],
+			"correct_option": "Needleman-Wunsch algorithm"
+		},
+		{
+			"question": "The purpose of Pepstats is to:",
+			"options": [
+				"Translate nucleic acid sequences",
+				"Create global alignment of sequences",
+				"Calculate properties of protein sequences",
+				"calculate the local alignment of two sequences"
+			],
+			"correct_option": "Calculate properties of protein sequences"
+		},
+		{
+			"question": "The purpose of Pepinfo is to:",
+			"options": [
+				"Create plots to display different amino acid properties",
+				"Calculate properties of protein sequences",
+				"calculate the local alignment of two sequences",
+				"Create global alignment of sequences"
+			],
+			"correct_option": "Create plots to display different amino acid properties"
+		},
+		{
+			"question": "The purpose of Transeq is to:",
+			"options": [
+				"Translate nucleic acid sequences",
+				"Create plots to display different amino acid properties",
+				"Calculate properties of protein sequences",
+				"Create global alignment of sequences"
+			],
+			"correct_option": "Translate nucleic acid sequences"
+		},
+		{
+			"question": "The hydropathy index of an amino acid represents:",
+			"options": [
+				"Both Hydrophobic properties and Hydrophilic properties",
+				"None",
+				"Hydrophilic properties",
+				"Hydrophobic properties"
+			],
+			"correct_option": "Both Hydrophobic properties and Hydrophilic properties"
+		},
+		{
+			"question": "The initiation of FASTA format has ____ symbol",
+			"options": [">", "/", "<", "*"],
+			"correct_option": ">"
+		},
+		{
+			"question": "Nucleic acid homology studies can help us determine our",
+			"options": ["phylogeny", "epigenetics", "none", "ontogeny"],
+			"correct_option": "phylogeny"
+		},
+		{
+			"question": "All tools can be used to analyse protein sequences except :",
+			"options": ["Pepinfo", "alignment", "Pepstat", "Transeq"],
+			"correct_option": "Transeq"
+		},
+		{
+			"question": "The purpose of Pepstats is to:",
+			"options": [
+				"Translate nucleic acid sequences",
+				"Create global alignment of sequences",
+				"calculate the local alignment of two sequences",
+				"Calculate properties of protein sequences"
+			],
+			"correct_option": "Calculate properties of protein sequences"
+		},
+		{
+			"question": "The purpose of Pepinfo is to:",
+			"options": [
+				"Create global alignment of sequences",
+				"Calculate properties of protein sequences",
+				"Create plots to display different amino acid properties",
+				"calculate the local alignment of two sequences"
+			],
+			"correct_option": "Create plots to display different amino acid properties"
+		},
+		{
+			"question": "The purpose of Transeq is to:",
+			"options": [
+				"Create plots to display different amino acid properties",
+				"Translate nucleic acid sequences",
+				"Calculate properties of protein sequences",
+				"Create global alignment of sequences"
+			],
+			"correct_option": "Translate nucleic acid sequences"
+		},
+		{
+			"question": "The hydropathy index of an amino acid represents:",
+			"options": [
+				"None",
+				"Hydrophilic properties",
+				"Hydrophobic properties",
+				"Both Hydrophobic properties and Hydrophilic properties"
+			],
+			"correct_option": "Both Hydrophobic properties and Hydrophilic properties"
+		}
+	],
+	"Experiment 13: Tissue location of the endogenous enzyme polyphenol oxidase in the given samples": [
+		{
+			"question": "Which enzyme is involved in melanin formation in mammals?",
+			"options": [
+				"Kinase",
+				"Tyrosinase",
+				"Melaninase",
+				"Melanin reductase"
+			],
+			"correct_option": "Tyrosinase"
+		},
+		{
+			"question": "Which ion is present in the active site of the PPO enzyme structure?",
+			"options": ["Iron", "Magnesium", "Copper", "Manganese"],
+			"correct_option": "Copper"
+		},
+		{
+			"question": "Who reviewed tissue printing?",
+			"options": [
+				"Lee & Cooper",
+				"Verner & Ye",
+				"Guyton & Ye",
+				"Hung & Lee"
+			],
+			"correct_option": "Verner & Ye"
+		},
+		{
+			"question": "PPO is a tyrosinase",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "PPO is not found in plants and fungi.",
+			"options": ["True", "False"],
+			"correct_option": "False"
+		},
+		{
+			"question": "PPO is an enzyme involved in melanin formation.",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "PPO is a metalloenzyme containing two active-site Mg ions that are essential for enzymatic activity.",
+			"options": ["True", "False"],
+			"correct_option": "False"
+		},
+		{
+			"question": "PPO catalyzes a redox reaction in which various phenolic compounds are oxidized to dark-colored pigment molecules.",
+			"options": ["True", "False"],
+			"correct_option": "True"
+		},
+		{
+			"question": "Often the tissue prints are prominent in the peripheral parts of the vegetables than the middle portion. What does it suggest?",
+			"options": [
+				"Inner cells produce degraded enzyme",
+				"Younger cells are at the periphery of the tissue",
+				"Only peripheral cells produce enzyme as they are the only cells that are alive",
+				"peripheral cells are dead"
+			],
+			"correct_option": "Younger cells are at the periphery of the tissue"
+		},
+		{
+			"question": "Polyphenol oxidases (PPOs) are a group of ______ containing enzymes that catalyse the oxidation of several phenols to o-quinones",
+			"options": ["Cu", "Fe", "Mg", "Ni"],
+			"correct_option": "Cu"
+		},
+		{
+			"question": "Which enzyme is involved in melanin formation in mammals?",
+			"options": [
+				"Tyrosinase",
+				"Melaninase",
+				"Melanin reductase",
+				"Kinase"
+			],
+			"correct_option": "Tyrosinase"
+		},
+		{
+			"question": "Which ion is present in the active site of the PPO enzyme?",
+			"options": ["Iron", "Manganese", "Copper", "Magnesium"],
+			"correct_option": "Copper"
+		}
+	],
+	"Laboratory Safety and Procedures": [
+		{
+			"question": "If an acid is splashed on your skin, wash at once with:",
+			"options": ["Water", "Weak Base", "Oil", "Soap"],
+			"correct_option": "Water"
+		},
+		{
+			"question": "If there is large spillage of hazardous liquid on skin and clothes, then",
+			"options": [
+				"All",
+				"Splash only affected area with water",
+				"Immediately use safety/ emergency drench shower",
+				"Discard affected clothes and shower immediately"
+			],
+			"correct_option": "Immediately use safety/ emergency drench shower"
+		},
+		{
+			"question": "What is the right way to mix acid and water?",
+			"options": [
+				"Add water to acid",
+				"Add acid to water",
+				"All",
+				"Add acid to water and shake"
+			],
+			"correct_option": "Add acid to water"
+		},
+		{
+			"question": "What type of gloves are to be worn in a laboratory?",
+			"options": [
+				"Nitrile",
+				"Depends on the substance being handled",
+				"Gloves are not always necessary",
+				"Latex"
+			],
+			"correct_option": "Depends on the substance being handled"
+		}
+	]
+}

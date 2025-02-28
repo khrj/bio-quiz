@@ -1,0 +1,499 @@
+{
+  "Experiment 8: Study the phenomenon of plasmolysis in onion peel": [
+    {
+      "question": "A cell in an isotonic solution, has an inflow of water due to the result of",
+      "options": [
+        "High external osmotic pressure",
+        "High internal osmotic pressure",
+        "Low internal osmotic pressure",
+        "Low external osmotic pressure"
+      ],
+      "correct_option": "High external osmotic pressure"
+    },
+    {
+      "question": "Cytorrhysis, which occurs after plasmolysis results in",
+      "options": [
+        "Excess water gain",
+        "Cell peeling away from the cell wall",
+        "Excess water loss",
+        "Complete collapse of the cell wall"
+      ],
+      "correct_option": "Complete collapse of the cell wall"
+    },
+    {
+      "question": "For osmosis to occur, the membrane should be ______",
+      "options": [
+        "Permeable",
+        "None",
+        "Semipermeable",
+        "Non Permeable"
+      ],
+      "correct_option": "Semipermeable"
+    },
+    {
+      "question": "Prolonged exposure of the cell in hypertonic solution can eventually lead to ______.",
+      "options": [
+        "Osmosis",
+        "Cytorrhysis",
+        "Plasmolysis",
+        "Cytolysis"
+      ],
+      "correct_option": "Cytorrhysis"
+    },
+    {
+      "question": "When a cell is placed in a hypertonic solution, what makes it flaccid?",
+      "options": [
+        "Negative pressure",
+        "None",
+        "Positive pressure",
+        "Turgor pressure"
+      ],
+      "correct_option": "Turgor pressure"
+    },
+    {
+      "question": "When placed in ---------, plants tend to wilt",
+      "options": [
+        "Hypertonic Solution",
+        "Excess water",
+        "Hypotonic Solution",
+        "None"
+      ],
+      "correct_option": "Hypertonic Solution"
+    },
+    {
+      "question": "----------- prevents the plant from drying out.",
+      "options": [
+        "Xylem",
+        "Stomata",
+        "Xanthophyll",
+        "Chlorophyll"
+      ],
+      "correct_option": "Stomata"
+    },
+    {
+      "question": "Which part of the onion leaf was taken for studying osmosis?",
+      "options": [
+        "Endodermis",
+        "Epidermis",
+        "Mesodermis",
+        "Cortex"
+      ],
+      "correct_option": "Epidermis"
+    },
+    {
+      "question": "The distance between the plasma membrane and the cell wall increase when plant cells are dipped in",
+      "options": [
+        "0.25% salt water",
+        "Seawater",
+        "Water at pH 7.0",
+        "0.1% NaCl solution"
+      ],
+      "correct_option": "Seawater"
+    },
+    {
+      "question": "After swimming in the dead sea you will feel thirsty",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    },
+    {
+      "question": "A student is trying to culture haloarchaea (organisms found in salt pans) in the lab. You notice that the student used distilled water for the preparation of media. What will happen to the haloarchaeal cells?",
+      "options": [
+        "The cells will bulge and lyse",
+        "Dense growth will be obtained",
+        "The cells will shrink",
+        "No net change"
+      ],
+      "correct_option": "The cells will bulge and lyse"
+    }
+  ],
+  "Experiment 9.a: Determination of the level of total cholesterol present in serum": [
+    {
+      "question": "Cholesterol is a precursor for the biosynthesis of....",
+      "options": [
+        "Vitamin D",
+        "Bile acids",
+        "All",
+        "Steroid hormones"
+      ],
+      "correct_option": "All"
+    },
+    {
+      "question": "Cholesterol is excreted via:",
+      "options": [
+        "Intestines",
+        "All",
+        "Gall bladder",
+        "Skin"
+      ],
+      "correct_option": "All"
+    },
+    {
+      "question": "Cholesterol is not essential for",
+      "options": [
+        "Formation of bile acids",
+        "Formation of cell membrane",
+        "Formation of phosphatase enzyme",
+        "Formation of steroid hormones"
+      ],
+      "correct_option": "Formation of phosphatase enzyme"
+    },
+    {
+      "question": "Fatty acids are produced in the reaction catalysed by",
+      "options": [
+        "Homocystein",
+        "Peroxidase",
+        "Cholesterol Oxidase",
+        "Cholesterol Esterase"
+      ],
+      "correct_option": "Cholesterol Esterase"
+    },
+    {
+      "question": "In the cholesterol experiment, the wavelength used to measure the sample was ?",
+      "options": [
+        "505 nm",
+        "420 nm",
+        "340 nm",
+        "720 nm"
+      ],
+      "correct_option": "505 nm"
+    },
+    {
+      "question": "Secondary hyperlipidaemia, condition which occurs within the framework of a disease due to -----------",
+      "options": [
+        "Increase in blood lipids",
+        "Decrease in Vitamin D",
+        "Increase in Vitamin D",
+        "Decrease in blood lipids"
+      ],
+      "correct_option": "Increase in blood lipids"
+    },
+    {
+      "question": "Increased homocystein levels lead to damages at the endothelium of blood vessels due to",
+      "options": [
+        "Vitamin D deficiency",
+        "Vitamin B complex deficiency",
+        "Vitamin A deficiency",
+        "Vitamin E deficiency",
+        "Vitamin C deficiency"
+      ],
+      "correct_option": "Vitamin B complex deficiency"
+    },
+    {
+      "question": "Hyperhomocysteinaemia is rated as an independent risk factor for atherosclerotic angiopathies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    }
+  ],
+  "Experiment 12: Computational annotation of nucleic acids and proteins": [
+    {
+      "question": "Alignment method suitable for aligning closely related sequence is:",
+      "options": [
+        "global alignment",
+        "local alignment",
+        "multiple sequence alignment",
+        "pairwise alignment"
+      ],
+      "correct_option": "global alignment"
+    },
+    {
+      "question": "Among the following which one is not the approach to local alignment?",
+      "options": [
+        "Smith-Waterman algorithm",
+        "K-tuple method",
+        "Needleman-Wunsch algorithm",
+        "Words method"
+      ],
+      "correct_option": "Needleman-Wunsch algorithm"
+    },
+    {
+      "question": "Among the following which one is not the approach for local alignment?",
+      "options": [
+        "Words method",
+        "K-tuple method",
+        "Smith-Waterman algorithm",
+        "Needleman-Wunsch algorithm"
+      ],
+      "correct_option": "Needleman-Wunsch algorithm"
+    },
+    {
+      "question": "The purpose of Pepstats is to:",
+      "options": [
+        "Translate nucleic acid sequences",
+        "Create global alignment of sequences",
+        "Calculate properties of protein sequences",
+        "calculate the local alignment of two sequences"
+      ],
+      "correct_option": "Calculate properties of protein sequences"
+    },
+    {
+      "question": "The purpose of Pepinfo is to:",
+      "options": [
+        "Create plots to display different amino acid properties",
+        "Calculate properties of protein sequences",
+        "calculate the local alignment of two sequences",
+        "Create global alignment of sequences"
+      ],
+      "correct_option": "Create plots to display different amino acid properties"
+    },
+    {
+      "question": "The purpose of Transeq is to:",
+      "options": [
+        "Translate nucleic acid sequences",
+        "Create plots to display different amino acid properties",
+        "Calculate properties of protein sequences",
+        "Create global alignment of sequences"
+      ],
+      "correct_option": "Translate nucleic acid sequences"
+    },
+    {
+      "question": "The hydropathy index of an amino acid represents:",
+      "options": [
+        "Both Hydrophobic properties and Hydrophilic properties",
+        "None",
+        "Hydrophilic properties",
+        "Hydrophobic properties"
+      ],
+      "correct_option": "Both Hydrophobic properties and Hydrophilic properties"
+    },
+    {
+      "question": "The initiation of FASTA format has ____ symbol",
+      "options": [
+        ">",
+        "/",
+        "<",
+        "*"
+      ],
+      "correct_option": ">"
+    },
+    {
+      "question": "Nucleic acid homology studies can help us determine our",
+      "options": [
+        "phylogeny",
+        "epigenetics",
+        "none",
+        "ontogeny"
+      ],
+      "correct_option": "phylogeny"
+    },
+    {
+      "question": "All tools can be used to analyse protein sequences except :",
+      "options": [
+        "Pepinfo",
+        "alignment",
+        "Pepstat",
+        "Transeq"
+      ],
+      "correct_option": "Transeq"
+    }
+  ],
+  "Experiment 4.a: Measurement of Haemoglobin content in human blood": [
+    {
+      "question": "The amount of physically dissolved oxygen is about 2ml per liter of blood",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    },
+    {
+      "question": "The iron bound to the Hb is in ______ form",
+      "options": [
+        "None",
+        "Fe",
+        "Fe",
+        "Fe"
+      ],
+      "correct_option": "Fe+2"
+    },
+    {
+      "question": "In the normal human body, the Hb polypeptide chains are in the form of ______",
+      "options": [
+        "α₂β₂",
+        "α₂δ₂",
+        "β₂γ₂",
+        "αβγδ"
+      ],
+      "correct_option": "α₂β₂"
+    },
+    {
+      "question": "What would happen to red blood cells if the haem group were removed from haemoglobin?",
+      "options": [
+        "White blood cells would not be able to reproduce.",
+        "Red blood cells would not be able to bind oxygen.",
+        "Blood clot formation would be inhibited.",
+        "Red blood cells would not be able to reproduce."
+      ],
+      "correct_option": "Red blood cells would not be able to bind oxygen."
+    },
+    {
+      "question": "When hemoglobin is treated with HCl, it is converted into hematinic acid.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    }
+  ],
+  "Experiment 4.b: Determination of ABO-Rh Blood Typing": [
+    {
+      "question": "Hemolytic jaundice of newborn happens when_____",
+      "options": [
+        "Mother is Rh positive; father is Rh positive, and child is Rh negative",
+        "Mother is Rh negative; father is Rh positive, and child is Rh positive",
+        "Mother is Rh positive; father is Rh negative, and the child is Rh negative",
+        "Mother is Rh negative; father is Rh positive, and child is Rh negative"
+      ],
+      "correct_option": "Mother is Rh negative; father is Rh positive, and child is Rh positive"
+    },
+    {
+      "question": "Agglutinins are present on the surface of the RBC.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "False"
+    }
+  ],
+  "Experiment 13: Tissue location of the endogenous enzyme polyphenol oxidase in the given samples": [
+    {
+      "question": "Which enzyme is involved in melanin formation in mammals?",
+      "options": [
+        "Kinase",
+        "Tyrosinase",
+        "Melaninase",
+        "Melanin reductase"
+      ],
+      "correct_option": "Tyrosinase"
+    },
+    {
+      "question": "Which ion is present in the active site of the PPO enzyme structure?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Copper",
+        "Manganese"
+      ],
+      "correct_option": "Copper"
+    },
+    {
+      "question": "Who reviewed tissue printing?",
+      "options": [
+        "Lee & Cooper",
+        "Verner & Ye",
+        "Guyton & Ye",
+        "Hung & Lee"
+      ],
+      "correct_option": "Verner & Ye"
+    },
+    {
+      "question": "PPO is a tyrosinase",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    },
+    {
+      "question": "PPO is not found in plants and fungi.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "False"
+    },
+    {
+      "question": "PPO is an enzyme involved in melanin formation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    },
+    {
+      "question": "PPO is a metalloenzyme containing two active-site Mg ions that are essential for enzymatic activity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "False"
+    },
+    {
+      "question": "PPO catalyzes a redox reaction in which various phenolic compounds are oxidized to dark-colored pigment molecules.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    }
+  ],
+  "Experiment 10: Measurement of Blood Pressure": [
+    {
+      "question": "When does the sound becomes muffled and disappears while measuring blood pressure?",
+      "options": [
+        "when the heart rate decreases",
+        "when pressure increases in the vessel",
+        "when the heart rate increase",
+        "when pressure decreases in the vessel"
+      ],
+      "correct_option": "when pressure decreases in the vessel"
+    },
+    {
+      "question": "The pressure in the arteries at the beginning of the cardiac cycle is ____",
+      "options": [
+        "Systolic Pressure",
+        "Diastolic Pressure",
+        "Mean Pressure",
+        "Pulse Pressure"
+      ],
+      "correct_option": "Diastolic Pressure"
+    }
+  ],
+  "Laboratory Safety and Procedures": [
+    {
+      "question": "If an acid is splashed on your skin, wash at once with:",
+      "options": [
+        "Water",
+        "Weak Base",
+        "Oil",
+        "Soap"
+      ],
+      "correct_option": "Water"
+    },
+    {
+      "question": "If there is large spillage of hazardous liquid on skin and clothes, then",
+      "options": [
+        "All",
+        "Splash only affected area with water",
+        "Immediately use safety/ emergency drench shower",
+        "Discard affected clothes and shower immediately"
+      ],
+      "correct_option": "Immediately use safety/ emergency drench shower"
+    },
+    {
+      "question": "What is the right way to mix acid and water?",
+      "options": [
+        "Add water to acid",
+        "Add acid to water",
+        "All",
+        "Add acid to water and shake"
+      ],
+      "correct_option": "Add acid to water"
+    },
+    {
+      "question": "What type of gloves are to be worn in a laboratory?",
+      "options": [
+        "Nitrile",
+        "Depends on the substance being handled",
+        "Gloves are not always necessary",
+        "Latex"
+      ],
+      "correct_option": "Depends on the substance being handled"
+    }
+  ]
+}
