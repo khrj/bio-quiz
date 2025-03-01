@@ -1,0 +1,336 @@
+{
+  "Experiment 1: Measurement of total protein content in the given sample": [
+    {
+      "question": "In Biuret's reaction, copper reacts with ----- atoms of the peptides to form a cuprous complex?",
+      "options": [
+        "Carbon atoms of the carboxyl group",
+        "Nitrogen atoms of peptides",
+        "Hydroxide ion",
+        "Sulphur atoms of the methionine and cysteine"
+      ],
+      "correct_option": "Nitrogen atoms of peptides"
+    },
+    {
+      "question": "To test for protein, a food sample must first be",
+      "options": [
+        "Ground up in water",
+        "Ground up in sodium hydroxide",
+        "Added to ethanol and mixed",
+        "Ground up in ethanol"
+      ],
+      "correct_option": "Ground up in water"
+    },
+    {
+      "question": "For the Biurate reaction to occur, the copper sulphate has to be _____",
+      "options": [
+        "Neutral",
+        "None",
+        "Alkaline",
+        "Acidic"
+      ],
+      "correct_option": "Alkaline"
+    }
+  ],
+  "Experiment 2: Measurement of glucose concentration in the given sample": [
+    {
+      "question": "Glucose in urine is quantified by oxidation to",
+      "options": [
+        "Aldehyde group",
+        "Gluconic acid",
+        "phosphomolybdic acid",
+        "Glucose"
+      ],
+      "correct_option": "Gluconic acid"
+    },
+    {
+      "question": "In GOD/POD method, ------------ is the oxidising agent and ---------- produces red coloration.",
+      "options": [
+        "Glucose oxidase, peroxidase",
+        "Peroxidase, Gluconic acid",
+        "Gluconic acid, Peroxidase",
+        "Peroxidase, Glucose oxidase"
+      ],
+      "correct_option": "Glucose oxidase, peroxidase"
+    },
+    {
+      "question": "Which optical form of glucose is naturally present and readily absorbed by our body",
+      "options": [
+        "D-Glucose",
+        "L-Glucose",
+        "Both",
+        "None"
+      ],
+      "correct_option": "D-Glucose"
+    },
+    {
+      "question": "D-form of glucose is also known as _______________.",
+      "options": [
+        "None",
+        "Galactose",
+        "Dextrose",
+        "Fructose"
+      ],
+      "correct_option": "Dextrose"
+    }
+  ],
+  "Experiment 3: Measurement of mitotic index and duration of mitosis in the given plant tissue": [
+    {
+      "question": "Chromosomes start separating at which stage of mitosis",
+      "options": [
+        "Early anaphase",
+        "Early telophase",
+        "Late metaphase",
+        "Early metaphase"
+      ],
+      "correct_option": "Early anaphase"
+    },
+    {
+      "question": "Chromosomes are arranged along the equatorial plate during ____",
+      "options": [
+        "Telophase",
+        "Anaphase",
+        "Prophase",
+        "Metaphase"
+      ],
+      "correct_option": "Metaphase"
+    },
+    {
+      "question": "During which phase does the DNA make a copy of itself?",
+      "options": [
+        "prophase",
+        "anaphase",
+        "metaphase",
+        "interphase"
+      ],
+      "correct_option": "interphase"
+    },
+    {
+      "question": "In the cell cycle, Mitotic phase occurs after the",
+      "options": [
+        "S phase",
+        "G2 phase",
+        "G1 phase",
+        "G0 phase"
+      ],
+      "correct_option": "G2 phase"
+    },
+    {
+      "question": "The event which does not occur during interphase, is",
+      "options": [
+        "Organelles replication",
+        "DNA replication",
+        "Protein Synthesis",
+        "Chromatin condenses"
+      ],
+      "correct_option": "Chromatin condenses"
+    },
+    {
+      "question": "The frequency of a mitotic cell when there are 136 mitotic cells in a culture of 300 cells is:",
+      "options": [
+        "0.45",
+        "0.90",
+        "2.20",
+        "136"
+      ],
+      "correct_option": "0.45"
+    },
+    {
+      "question": "Match the stages of mitosis",
+      "options": [
+        "Anaphase → chromosomes move towards the opposite poles, Telophase → nuclear membranes are formed again, Interphase → DNA replication, Metaphase → equatorial plane, Prophase → Replication of centrosome"
+      ],
+      "correct_option": "Anaphase → chromosomes move towards the opposite poles, Telophase → nuclear membranes are formed again, Interphase → DNA replication, Metaphase → equatorial plane, Prophase → Replication of centrosome"
+    },
+    {
+      "question": "______ are found in animal cells but not in that of higher plants",
+      "options": [
+        "Spindle fibres",
+        "Kinetochores",
+        "Centrioles",
+        "Microtubules"
+      ],
+      "correct_option": "Centrioles"
+    }
+  ],
+  "Experiment 4: a. Measurement of Haemoglobin content in human blood. b. Determination of ABO-Rh Blood Typing": [
+    {
+      "question": "Each hemoglobin molecule binds to how many divalent iron (Fe) of each porphyrin unit?",
+      "options": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "correct_option": "1"
+    },
+    {
+      "question": "In normal body conditions, the percentage of haemoglobin in red blood cells is -----",
+      "options": [
+        "Variable",
+        "None of the above",
+        "Fluctuating",
+        "Constant"
+      ],
+      "correct_option": "Constant"
+    },
+    {
+      "question": "If one of your parents is blood type A and the other is blood type B, which of the following blood types would you likely be?",
+      "options": [
+        "either A, B, AB or O",
+        "B",
+        "O",
+        "A"
+      ],
+      "correct_option": "either A, B, AB or O"
+    },
+    {
+      "question": "agglutinogens are antigenic substances present in blood cells, bacteria, etc., which stimulates the formation of an agglutinin in blood serum.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_option": "True"
+    },
+    {
+      "question": "What is formed when HCl is added to blood haemoglobin?",
+      "options": [
+        "Hemanicic acid",
+        "Nucleic acid",
+        "Hemic acid",
+        "Hematinic acid"
+      ],
+      "correct_option": "Hematinic acid"
+    },
+    {
+      "question": "Match the following: ABO blood group was discovered by, AB blood group is the universal, Rh factor was discovered by",
+      "options": [
+        "K Landsteiner, recipient, K Landsteiner and S Weiener"
+      ],
+      "correct_option": "K Landsteiner, recipient, K Landsteiner and S Weiener"
+    },
+    {
+      "question": "If a sample of blood contains A agglutinogen and anti B agglutinin what will be the blood group?",
+      "options": [
+        "O",
+        "B",
+        "AB",
+        "A"
+      ],
+      "correct_option": "A"
+    },
+    {
+      "question": "Erythroblastosis fetalis happens _______",
+      "options": [
+        "When the mother is Rh negative and the child is Rh negative",
+        "When mother is Rh positive and the child is Rh negative",
+        "When mother is Rh negative and the child is Rh positive",
+        "When the mother is Rh positive and the child is also Rh positive"
+      ],
+      "correct_option": "When mother is Rh negative and the child is Rh positive"
+    }
+  ],
+  "Experiment 10: Measurement of Blood Pressure": [
+    {
+      "question": "If a person has a systolic reading of 118 and a diastolic reading of 78, what will be that person's pulse pressure?",
+      "options": [
+        "78/118",
+        "118/78",
+        "98",
+        "40"
+      ],
+      "correct_option": "40"
+    },
+    {
+      "question": "When does the sound becomes muffled and disappear while measuring blood pressure?",
+      "options": [
+        "when pressure decreases in the vessel",
+        "when the heart rate increase",
+        "when pressure increases in the vessel",
+        "when the heart rate decreases"
+      ],
+      "correct_option": "when pressure decreases in the vessel"
+    },
+    {
+      "question": "What can you do to control high blood pressure?",
+      "options": [
+        "All",
+        "Avoid smoking",
+        "Stress Management",
+        "Avoid alcohol"
+      ],
+      "correct_option": "All"
+    },
+    {
+      "question": "Resistance to blood flow depends on:",
+      "options": [
+        "None",
+        "Vessel radius",
+        "Both Vessel length and radius",
+        "Vessel Length"
+      ],
+      "correct_option": "Both Vessel length and radius"
+    },
+    {
+      "question": "Systolic pressure is peak pressure in arteries, when the ventricles are",
+      "options": [
+        "contracting",
+        "expanding",
+        "relaxed",
+        "All"
+      ],
+      "correct_option": "contracting"
+    },
+    {
+      "question": "The amount of blood pumped out from the heart with each contraction is called",
+      "options": [
+        "heart rate",
+        "stroke volume",
+        "flow rate",
+        "mean blood pressure"
+      ],
+      "correct_option": "stroke volume"
+    },
+    {
+      "question": "High blood pressure puts you at risk for which of the following?",
+      "options": [
+        "Heart disease",
+        "All",
+        "Kidney disease",
+        "Stroke"
+      ],
+      "correct_option": "All"
+    },
+    {
+      "question": "Increased ---------- levels lead to damages of the endothelium in blood vessels:",
+      "options": [
+        "Homocystein",
+        "Plasmalipoprotein",
+        "Cholesterol",
+        "Triglycerides"
+      ],
+      "correct_option": "Homocystein"
+    },
+    {
+      "question": "3:2:1 ratio can be used a diagnostic tool which refers to",
+      "options": [
+        "pulse pressure: systolic: diastolic",
+        "systolic: diastolic: pulse pressure",
+        "pulse pressure: diastolic: systolic",
+        "systolic: pulse pressure: diastolic"
+      ],
+      "correct_option": "systolic: diastolic: pulse pressure"
+    }
+  ],
+  "Experiment 12: Computational annotation of nucleic acids and proteins": [
+    {
+      "question": "Choose the correct expansion for EMBOSS:",
+      "options": [
+        "European Microbiology Biology Open Software Suite",
+        "European Molecular Biology Open Software System",
+        "European Molecular Biology Open Software Suite",
+        "European Microbiology Biology Open Software System"
+      ],
+      "correct_option": "European Molecular Biology Open Software Suite"
+    }
+  ]
+}
