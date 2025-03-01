@@ -1,0 +1,914 @@
+{
+  "Experiment 1: Measurement of total protein content in the given sample": [
+    {
+      "question": "What chemical principle does Lowry's method for protein measurement rely on?",
+      "options": [
+        "Reduction of phosphomolybdate by tyrosine and tryptophan",
+        "Oxidation of phosphomolybdate by all amino acids",
+        "Reduction of alkaline copper by all amino acids",
+        "Oxidation of alkaline copper by tyrosine only"
+      ],
+      "correct_option": "Reduction of phosphomolybdate by tyrosine and tryptophan"
+    },
+    {
+      "question": "In Lowry's method, what gives the characteristic blue color?",
+      "options": [
+        "The reaction of alkaline copper with protein and reduction of phosphomolybdate",
+        "The direct reaction between protein and Folin's reagent",
+        "The oxidation of copper ions by peptide bonds",
+        "The direct binding of copper to aromatic amino acids"
+      ],
+      "correct_option": "The reaction of alkaline copper with protein and reduction of phosphomolybdate"
+    },
+    {
+      "question": "What is the optimal wavelength for measuring the blue complex in Lowry's method?",
+      "options": [
+        "740 nm",
+        "540 nm",
+        "420 nm",
+        "280 nm"
+      ],
+      "correct_option": "740 nm"
+    },
+    {
+      "question": "What is Reagent C in the Lowry method composed of?",
+      "options": [
+        "50 ml Reagent A + 1 ml Reagent B",
+        "20 g Na₂CO₃ + 4 g NaOH",
+        "0.5 g CuSO₄·5H₂O + 1.0 g Sodium Potassium Tartarate",
+        "Diluted Folin's & Ciocalteu reagent"
+      ],
+      "correct_option": "50 ml Reagent A + 1 ml Reagent B"
+    },
+    {
+      "question": "What is the standard protein used in the Lowry's method according to the manual?",
+      "options": [
+        "Bovine serum albumin",
+        "Egg albumin",
+        "Casein",
+        "Hemoglobin"
+      ],
+      "correct_option": "Bovine serum albumin"
+    },
+    {
+      "question": "What is the incubation time required after adding Folin's reagent in the Lowry method?",
+      "options": [
+        "20 minutes",
+        "10 minutes",
+        "30 minutes",
+        "5 minutes"
+      ],
+      "correct_option": "20 minutes"
+    },
+    {
+      "question": "According to Beer-Lambert's law, absorbance is proportional to:",
+      "options": [
+        "Concentration, path length, and molar extinction coefficient",
+        "Concentration and path length only",
+        "Wavelength and concentration only",
+        "Molar extinction coefficient only"
+      ],
+      "correct_option": "Concentration, path length, and molar extinction coefficient"
+    },
+    {
+      "question": "What is transmittance in spectrophotometry?",
+      "options": [
+        "The ratio of intensity of light exiting a sample to the intensity entering it (I/Io)",
+        "The ratio of intensity of light entering a sample to the intensity exiting it (Io/I)",
+        "The logarithm of the ratio of light intensities (log Io/I)",
+        "The difference between light intensities (Io-I)"
+      ],
+      "correct_option": "The ratio of intensity of light exiting a sample to the intensity entering it (I/Io)"
+    },
+    {
+      "question": "What is the purpose of the blank solution in spectrophotometric measurements?",
+      "options": [
+        "To set zero on the instrument",
+        "To determine the maximum absorption wavelength",
+        "To calculate the molar extinction coefficient",
+        "To measure the standard protein concentration"
+      ],
+      "correct_option": "To set zero on the instrument"
+    },
+    {
+      "question": "What is the relationship between absorbance and transmittance?",
+      "options": [
+        "Absorbance = log(1/Transmittance)",
+        "Absorbance = Transmittance",
+        "Absorbance = 1 - Transmittance",
+        "Absorbance = 1/Transmittance"
+      ],
+      "correct_option": "Absorbance = log(1/Transmittance)"
+    },
+    {
+      "question": "What is the optimal transmittance percentage for accurate absorbance readings according to the manual?",
+      "options": [
+        "36.8%",
+        "50%",
+        "75%",
+        "25%"
+      ],
+      "correct_option": "36.8%"
+    },
+    {
+      "question": "What is the concentration of the working standard protein solution used in the Lowry method?",
+      "options": [
+        "1 mg/ml",
+        "0.5 mg/ml",
+        "10 mg/ml",
+        "0.1 mg/ml"
+      ],
+      "correct_option": "1 mg/ml"
+    },
+    {
+      "question": "What is Reagent D in the Lowry method?",
+      "options": [
+        "Diluted (1N) Folin's & Ciocalteu reagent",
+        "Alkaline copper solution",
+        "Bovine serum albumin solution",
+        "Sodium carbonate solution"
+      ],
+      "correct_option": "Diluted (1N) Folin's & Ciocalteu reagent"
+    },
+    {
+      "question": "Which amino acids are primarily responsible for the color development in Lowry's method?",
+      "options": [
+        "Tyrosine and tryptophan",
+        "Glycine and alanine",
+        "Histidine and cysteine",
+        "Lysine and arginine"
+      ],
+      "correct_option": "Tyrosine and tryptophan"
+    },
+    {
+      "question": "Why must standard curves be prepared when using spectrophotometric methods like Lowry's?",
+      "options": [
+        "To relate absorbance values to actual protein concentrations",
+        "To determine the optimal wavelength for measurements",
+        "To calculate the molar extinction coefficient of proteins",
+        "To test if the instrument is calibrated properly"
+      ],
+      "correct_option": "To relate absorbance values to actual protein concentrations"
+    }
+  ],
+  "Experiment 2: Measurement of glucose concentration in the given sample": [
+    {
+      "question": "What principle does the Folin-Wu method for glucose estimation use?",
+      "options": [
+        "Reduction of alkaline copper by glucose, forming cuprous oxide",
+        "Oxidation of glucose by folin-ciocalteu reagent",
+        "Enzymatic breakdown of glucose by GOD/POD",
+        "Colorimetric measurement of glycosylated proteins"
+      ],
+      "correct_option": "Reduction of alkaline copper by glucose, forming cuprous oxide"
+    },
+    {
+      "question": "What gives the blue color in Folin-Wu's method for glucose estimation?",
+      "options": [
+        "Reaction of cuprous oxide with phosphomolybdic acid",
+        "Reaction of glucose with alkaline copper solution",
+        "Direct reaction between glucose and phosphomolybdic acid",
+        "Reaction between glucose and folin-ciocalteu reagent"
+      ],
+      "correct_option": "Reaction of cuprous oxide with phosphomolybdic acid"
+    },
+    {
+      "question": "Why is deproteinization necessary before glucose estimation from blood samples?",
+      "options": [
+        "Blood proteins react with Fehling's solution giving false results",
+        "Proteins interfere with the optical density measurement",
+        "Proteins bind to glucose, making it unavailable for reaction",
+        "Proteins break down glucose, lowering its concentration"
+      ],
+      "correct_option": "Blood proteins react with Fehling's solution giving false results"
+    },
+    {
+      "question": "Which reagent is used for deproteinization in the Folin-Wu method?",
+      "options": [
+        "Tungistic acid",
+        "Phosphomolybdic acid",
+        "Alkaline copper solution",
+        "Diluted sulfuric acid"
+      ],
+      "correct_option": "Tungistic acid"
+    },
+    {
+      "question": "At what wavelength is the optical density measured in Folin-Wu's method for glucose estimation?",
+      "options": [
+        "420 nm",
+        "740 nm",
+        "540 nm",
+        "280 nm"
+      ],
+      "correct_option": "420 nm"
+    },
+    {
+      "question": "What is the role of heat treatment at 80°C in glucose estimation by Folin-Wu's method?",
+      "options": [
+        "To accelerate the reaction between glucose and alkaline copper",
+        "To denature proteins in the sample",
+        "To stabilize the blue color developed",
+        "To breakdown complex carbohydrates into glucose"
+      ],
+      "correct_option": "To accelerate the reaction between glucose and alkaline copper"
+    },
+    {
+      "question": "What is the difference between GOD/POD method and Folin-Wu's method?",
+      "options": [
+        "GOD/POD uses enzymatic reactions while Folin-Wu uses chemical reduction",
+        "GOD/POD is less accurate than Folin-Wu",
+        "GOD/POD requires more sample volume than Folin-Wu",
+        "GOD/POD takes longer time than Folin-Wu"
+      ],
+      "correct_option": "GOD/POD uses enzymatic reactions while Folin-Wu uses chemical reduction"
+    },
+    {
+      "question": "What is the property of glucose that allows its measurement using Folin-Wu method?",
+      "options": [
+        "Its reducing ability due to the aldehyde group",
+        "Its ability to form glycosidic bonds",
+        "Its optical rotation property",
+        "Its ability to be phosphorylated"
+      ],
+      "correct_option": "Its reducing ability due to the aldehyde group"
+    },
+    {
+      "question": "What is the composition of alkaline copper solution (Reagent C) in Folin-Wu method?",
+      "options": [
+        "50 ml of Reagent A (2% Na₂CO₃ in 0.1N NaOH) + 1 ml of Reagent B (0.5% CuSO₄ in 1% sodium potassium tartrate)",
+        "Pure copper sulfate solution",
+        "Sodium carbonate and sodium hydroxide only",
+        "Copper sulfate and sodium potassium tartrate only"
+      ],
+      "correct_option": "50 ml of Reagent A (2% Na₂CO₃ in 0.1N NaOH) + 1 ml of Reagent B (0.5% CuSO₄ in 1% sodium potassium tartrate)"
+    },
+    {
+      "question": "What is the normal blood glucose concentration range in humans?",
+      "options": [
+        "70-110 mg/100ml (fasting)",
+        "40-60 mg/100ml",
+        "150-200 mg/100ml",
+        "250-300 mg/100ml"
+      ],
+      "correct_option": "70-110 mg/100ml (fasting)"
+    },
+    {
+      "question": "Which form of glucose predominates in solution?",
+      "options": [
+        "β-D-glucose (63%)",
+        "α-D-glucose (36%)",
+        "Open chain form (1%)",
+        "Equal amounts of all forms"
+      ],
+      "correct_option": "β-D-glucose (63%)"
+    },
+    {
+      "question": "What is the condition where blood glucose levels are elevated?",
+      "options": [
+        "Hyperglycemia",
+        "Hypoglycemia",
+        "Glycosuria",
+        "Glycogenolysis"
+      ],
+      "correct_option": "Hyperglycemia"
+    },
+    {
+      "question": "How long should the test tubes be kept in boiling water bath during glucose estimation by Folin-Wu method?",
+      "options": [
+        "6 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "correct_option": "6 minutes"
+    },
+    {
+      "question": "What is the primary hormone that decreases blood glucose levels?",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Epinephrine",
+        "Thyroxine"
+      ],
+      "correct_option": "Insulin"
+    },
+    {
+      "question": "Why is glucose preferred for intravenous infusion instead of fructose or sucrose?",
+      "options": [
+        "Glucose can be directly utilized by cells without prior metabolism",
+        "Glucose is more soluble in water",
+        "Glucose is less expensive",
+        "Glucose causes less immune reaction"
+      ],
+      "correct_option": "Glucose can be directly utilized by cells without prior metabolism"
+    }
+  ],
+  "Experiment 3: Measurement of mitotic index and duration of mitosis in the given plant tissue": [
+    {
+      "question": "What is the mitotic index?",
+      "options": [
+        "The fraction or percentage of dividing cells in a population",
+        "The time taken for complete mitosis",
+        "The ratio of metaphase to anaphase cells",
+        "The rate of DNA synthesis during cell division"
+      ],
+      "correct_option": "The fraction or percentage of dividing cells in a population"
+    },
+    {
+      "question": "How is mitotic index calculated?",
+      "options": [
+        "Number of mitotic cells divided by total number of cells counted",
+        "Number of interphase cells divided by total number of cells",
+        "Number of metaphase cells divided by total number of cells",
+        "Total number of cells divided by number of mitotic cells"
+      ],
+      "correct_option": "Number of mitotic cells divided by total number of cells counted"
+    },
+    {
+      "question": "How is the duration of mitosis calculated using mitotic index?",
+      "options": [
+        "Mitotic index × duration of cell cycle",
+        "Duration of cell cycle ÷ mitotic index",
+        "Mitotic index ÷ duration of cell cycle",
+        "Duration of cell cycle - mitotic index"
+      ],
+      "correct_option": "Mitotic index × duration of cell cycle"
+    },
+    {
+      "question": "Which dye is used for staining nuclei in the mitotic index experiment?",
+      "options": [
+        "Acetocarmine",
+        "Methylene blue",
+        "Safranin",
+        "Eosin"
+      ],
+      "correct_option": "Acetocarmine"
+    },
+    {
+      "question": "Why is the root tip of Allium cepa (onion) preferred for mitotic index studies?",
+      "options": [
+        "It has rapidly dividing meristematic cells",
+        "It has larger chromosomes than other plants",
+        "It can be easily stained",
+        "It has fewer chromosomes than other plants"
+      ],
+      "correct_option": "It has rapidly dividing meristematic cells"
+    },
+    {
+      "question": "What is the purpose of placing root tips in 10% HCl before staining?",
+      "options": [
+        "To soften the tissue for squashing",
+        "To kill the cells",
+        "To increase staining intensity",
+        "To prevent bacterial contamination"
+      ],
+      "correct_option": "To soften the tissue for squashing"
+    },
+    {
+      "question": "During which phase of the cell cycle does DNA replication occur?",
+      "options": [
+        "S phase of interphase",
+        "G1 phase of interphase",
+        "G2 phase of interphase",
+        "Prophase of mitosis"
+      ],
+      "correct_option": "S phase of interphase"
+    },
+    {
+      "question": "What is the distinctive feature of metaphase in mitosis?",
+      "options": [
+        "Alignment of chromosomes along the equatorial plane",
+        "Condensation of chromosomes",
+        "Separation of sister chromatids",
+        "Formation of nuclear membrane"
+      ],
+      "correct_option": "Alignment of chromosomes along the equatorial plane"
+    },
+    {
+      "question": "What event marks the beginning of anaphase?",
+      "options": [
+        "Separation of sister chromatids at the centromere",
+        "Formation of the spindle apparatus",
+        "Disappearance of the nuclear membrane",
+        "Alignment of chromosomes at the equator"
+      ],
+      "correct_option": "Separation of sister chromatids at the centromere"
+    },
+    {
+      "question": "What is Farmer's fixative composed of?",
+      "options": [
+        "Absolute alcohol and glacial acetic acid in 3:1 ratio",
+        "Formaldehyde and acetic acid in 3:1 ratio",
+        "Ethanol and hydrochloric acid in 3:1 ratio",
+        "Methanol and acetic acid in 1:3 ratio"
+      ],
+      "correct_option": "Absolute alcohol and glacial acetic acid in 3:1 ratio"
+    },
+    {
+      "question": "What structures are visible in interphase cells but not in mitotic cells?",
+      "options": [
+        "Nucleoli",
+        "Cell membrane",
+        "Mitochondria",
+        "Cell wall"
+      ],
+      "correct_option": "Nucleoli"
+    },
+    {
+      "question": "What is the purpose of sealing the edges of the coverslip with glycerine/liquid paraffin?",
+      "options": [
+        "To prevent the preparation from drying out",
+        "To increase optical clarity",
+        "To fix the cells in place",
+        "To prevent bacterial contamination"
+      ],
+      "correct_option": "To prevent the preparation from drying out"
+    },
+    {
+      "question": "What is the minimum resolvable distance in microscopy defined by?",
+      "options": [
+        "0.5λ/(N sinθ) where λ is wavelength, N is refractive index, and θ is aperture angle",
+        "Nλ/0.5 where N is number of light rays",
+        "λ/2 where λ is wavelength",
+        "N/λ where N is resolving power"
+      ],
+      "correct_option": "0.5λ/(N sinθ) where λ is wavelength, N is refractive index, and θ is aperture angle"
+    },
+    {
+      "question": "Which of the following is NOT a phase of mitosis?",
+      "options": [
+        "G2 phase",
+        "Prophase",
+        "Metaphase",
+        "Anaphase"
+      ],
+      "correct_option": "G2 phase"
+    },
+    {
+      "question": "What happens during telophase of mitosis?",
+      "options": [
+        "Formation of new nuclear membranes around separated chromosomes",
+        "Alignment of chromosomes at the equator",
+        "Separation of sister chromatids",
+        "Disappearance of the nuclear membrane"
+      ],
+      "correct_option": "Formation of new nuclear membranes around separated chromosomes"
+    }
+  ],
+  "Experiment 4: Measurement of Haemoglobin content and determination of ABO-Rh Blood Typing": [
+    {
+      "question": "What is the principle behind hemoglobin estimation using Sahli's method?",
+      "options": [
+        "Conversion of hemoglobin to hematinic acid and comparing with standard hematin",
+        "Direct measurement of oxygen-binding capacity",
+        "Reduction of ferric iron to ferrous iron",
+        "Spectrophotometric measurement of oxyhemoglobin"
+      ],
+      "correct_option": "Conversion of hemoglobin to hematinic acid and comparing with standard hematin"
+    },
+    {
+      "question": "What reagent is used to convert hemoglobin to hematinic acid in Sahli's method?",
+      "options": [
+        "N/10 HCl",
+        "N/10 NaOH",
+        "Dilute H2SO4",
+        "Benedict's reagent"
+      ],
+      "correct_option": "N/10 HCl"
+    },
+    {
+      "question": "What is the normal hemoglobin content in men according to the manual?",
+      "options": [
+        "15.8 g per 100 ml of blood",
+        "13.7 g per 100 ml of blood",
+        "12.5 g per 100 ml of blood",
+        "10.5 g per 100 ml of blood"
+      ],
+      "correct_option": "15.8 g per 100 ml of blood"
+    },
+    {
+      "question": "What is the normal hemoglobin content in women according to the manual?",
+      "options": [
+        "13.7 g per 100 ml of blood",
+        "15.8 g per 100 ml of blood",
+        "11.5 g per 100 ml of blood",
+        "9.5 g per 100 ml of blood"
+      ],
+      "correct_option": "13.7 g per 100 ml of blood"
+    },
+    {
+      "question": "Which blood group has both A and B antigens on RBCs?",
+      "options": [
+        "AB",
+        "A",
+        "B",
+        "O"
+      ],
+      "correct_option": "AB"
+    },
+    {
+      "question": "Which blood group has no antibodies in the plasma?",
+      "options": [
+        "AB",
+        "A",
+        "B",
+        "O"
+      ],
+      "correct_option": "AB"
+    },
+    {
+      "question": "Which blood group has both anti-A and anti-B antibodies in the plasma?",
+      "options": [
+        "O",
+        "A",
+        "B",
+        "AB"
+      ],
+      "correct_option": "O"
+    },
+    {
+      "question": "What causes agglutination in blood typing?",
+      "options": [
+        "Reaction between antigen on RBCs and antibody in the antiserum",
+        "Reaction between RBC membrane proteins",
+        "Direct clumping of RBCs due to surface charge",
+        "Reaction between plasma proteins"
+      ],
+      "correct_option": "Reaction between antigen on RBCs and antibody in the antiserum"
+    },
+    {
+      "question": "What condition may develop when an Rh-negative mother is pregnant with an Rh-positive fetus?",
+      "options": [
+        "Erythroblastosis fetalis",
+        "Hemolytic anemia",
+        "Thalassemia",
+        "Sickle cell disease"
+      ],
+      "correct_option": "Erythroblastosis fetalis"
+    },
+    {
+      "question": "Why does a type B person cannot receive type A blood?",
+      "options": [
+        "Anti-A antibodies in recipient's plasma would attack donor's RBCs",
+        "Anti-B antibodies in donor's plasma would attack recipient's RBCs",
+        "The Rh factors would be incompatible",
+        "There would be immediate hemolysis of all RBCs"
+      ],
+      "correct_option": "Anti-A antibodies in recipient's plasma would attack donor's RBCs"
+    },
+    {
+      "question": "What color does hemoglobin turn when treated with N/10 HCl?",
+      "options": [
+        "Brown",
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "correct_option": "Brown"
+    },
+    {
+      "question": "What is the molecular weight of mammalian hemoglobin?",
+      "options": [
+        "Approximately 65,000 daltons",
+        "Approximately 35,000 daltons",
+        "Approximately 100,000 daltons",
+        "Approximately 15,000 daltons"
+      ],
+      "correct_option": "Approximately 65,000 daltons"
+    },
+    {
+      "question": "What happens to red blood cells when placed in distilled water?",
+      "options": [
+        "They swell and burst (hemolysis) due to osmotic pressure",
+        "They shrink (crenation) due to osmotic pressure",
+        "They maintain their normal shape",
+        "They clump together (agglutinate)"
+      ],
+      "correct_option": "They swell and burst (hemolysis) due to osmotic pressure"
+    },
+    {
+      "question": "Which blood group is considered the universal donor?",
+      "options": [
+        "O negative",
+        "AB positive",
+        "A negative",
+        "B negative"
+      ],
+      "correct_option": "O negative"
+    },
+    {
+      "question": "Which blood group is considered the universal recipient?",
+      "options": [
+        "AB positive",
+        "O negative",
+        "A positive",
+        "B positive"
+      ],
+      "correct_option": "AB positive"
+    }
+  ],
+  "Experiment 10: Measurement of Blood Pressure": [
+    {
+      "question": "What is systolic pressure?",
+      "options": [
+        "Peak pressure in the arteries when ventricles are contracting",
+        "Minimum pressure in the arteries when ventricles are filled with blood",
+        "Average pressure throughout the cardiac cycle",
+        "Pressure difference between maximum and minimum pressures"
+      ],
+      "correct_option": "Peak pressure in the arteries when ventricles are contracting"
+    },
+    {
+      "question": "What is diastolic pressure?",
+      "options": [
+        "Minimum pressure in the arteries when ventricles are filled with blood",
+        "Peak pressure in the arteries when ventricles are contracting",
+        "Average pressure throughout the cardiac cycle",
+        "Pressure when blood flows through the veins"
+      ],
+      "correct_option": "Minimum pressure in the arteries when ventricles are filled with blood"
+    },
+    {
+      "question": "What is pulse pressure?",
+      "options": [
+        "The difference between systolic and diastolic pressure",
+        "The average of systolic and diastolic pressure",
+        "The rate of heartbeat measured at the wrist",
+        "The pressure at which Korotkoff sounds are first heard"
+      ],
+      "correct_option": "The difference between systolic and diastolic pressure"
+    },
+    {
+      "question": "What is the normal ratio of systolic:diastolic:pulse pressure in a healthy individual?",
+      "options": [
+        "3:2:1",
+        "2:1:1",
+        "4:3:1",
+        "1:1:1"
+      ],
+      "correct_option": "3:2:1"
+    },
+    {
+      "question": "What is the normal blood pressure range for an adult according to the manual?",
+      "options": [
+        "110/65 - 140/90 mmHg",
+        "90/60 - 120/80 mmHg",
+        "150/100 - 180/120 mmHg",
+        "80/50 - 100/70 mmHg"
+      ],
+      "correct_option": "110/65 - 140/90 mmHg"
+    },
+    {
+      "question": "What are Korotkoff sounds?",
+      "options": [
+        "Sounds heard through a stethoscope during blood pressure measurement",
+        "Sounds produced by heart valves closing",
+        "Sounds produced by pulse waves in the arteries",
+        "Sounds produced by blood flow through veins"
+      ],
+      "correct_option": "Sounds heard through a stethoscope during blood pressure measurement"
+    },
+    {
+      "question": "What method of blood pressure measurement was described for this experiment?",
+      "options": [
+        "Oscillometric method",
+        "Auscultatory method",
+        "Direct arterial puncture method",
+        "Ultrasound method"
+      ],
+      "correct_option": "Oscillometric method"
+    },
+    {
+      "question": "What is cardiac output defined as?",
+      "options": [
+        "Heart rate multiplied by stroke volume",
+        "Volume of blood pumped per minute",
+        "Blood pressure multiplied by heart rate",
+        "Stroke volume divided by heart rate"
+      ],
+      "correct_option": "Heart rate multiplied by stroke volume"
+    },
+    {
+      "question": "Which substances decrease the size of blood vessels, increasing blood pressure?",
+      "options": [
+        "Vasoconstrictors",
+        "Vasodilators",
+        "Diuretics",
+        "Anticoagulants"
+      ],
+      "correct_option": "Vasoconstrictors"
+    },
+    {
+      "question": "Which substances increase the size of blood vessels, decreasing blood pressure?",
+      "options": [
+        "Vasodilators",
+        "Vasoconstrictors",
+        "Coagulants",
+        "Antidiuretics"
+      ],
+      "correct_option": "Vasodilators"
+    },
+    {
+      "question": "What effect does anemia have on blood viscosity and blood pressure?",
+      "options": [
+        "Reduces viscosity, potentially decreasing blood pressure",
+        "Increases viscosity, potentially increasing blood pressure",
+        "No effect on viscosity or blood pressure",
+        "Reduces viscosity but increases blood pressure"
+      ],
+      "correct_option": "Reduces viscosity, potentially decreasing blood pressure"
+    },
+    {
+      "question": "How long before taking a blood pressure reading should you avoid coffee, smoking or strenuous exercise?",
+      "options": [
+        "At least 30 minutes",
+        "At least 5 minutes",
+        "At least 1 hour",
+        "At least 2 hours"
+      ],
+      "correct_option": "At least 30 minutes"
+    },
+    {
+      "question": "What is the primary determinant of resistance in blood vessels?",
+      "options": [
+        "Vessel diameter",
+        "Vessel length",
+        "Blood viscosity",
+        "Heart rate"
+      ],
+      "correct_option": "Vessel diameter"
+    },
+    {
+      "question": "What is the correct position for the arm during blood pressure measurement?",
+      "options": [
+        "Relaxed and kept at heart level",
+        "Raised above heart level",
+        "Hanging below heart level",
+        "The position doesn't matter"
+      ],
+      "correct_option": "Relaxed and kept at heart level"
+    },
+    {
+      "question": "What term describes abnormally high blood pressure?",
+      "options": [
+        "Hypertension",
+        "Hypotension",
+        "Tachycardia",
+        "Bradycardia"
+      ],
+      "correct_option": "Hypertension"
+    }
+  ],
+  "Experiment 12: Computational annotation of nucleic acids and proteins": [
+    {
+      "question": "What is computational biology primarily concerned with?",
+      "options": [
+        "Building computers using biological materials",
+        "Data-analytical methods and computational simulation of biological systems",
+        "Creating hardware that mimics biological processes",
+        "Storing biological specimens digitally"
+      ],
+      "correct_option": "Data-analytical methods and computational simulation of biological systems"
+    },
+    {
+      "question": "EMBOSS stands for:",
+      "options": [
+        "Electronic Molecular Biology Operations Software System",
+        "Enhanced Molecular Biology Open Software Suite",
+        "European Molecular Biology Open Software Suite",
+        "Evolving Molecular Biology Open Source Software"
+      ],
+      "correct_option": "European Molecular Biology Open Software Suite"
+    },
+    {
+      "question": "What distinguishes EMBOSS from many other biology software packages?",
+      "options": [
+        "It requires a subscription fee",
+        "It is free Open Source software",
+        "It can only be used on Windows systems",
+        "It was developed by a single corporation"
+      ],
+      "correct_option": "It is free Open Source software"
+    },
+    {
+      "question": "Which algorithm is used by the 'Needle' tool in EMBOSS?",
+      "options": [
+        "Smith-Waterman algorithm",
+        "BLAST algorithm",
+        "Needleman-Wunsch algorithm",
+        "Hidden Markov Model"
+      ],
+      "correct_option": "Needleman-Wunsch algorithm"
+    },
+    {
+      "question": "The 'Water' tool in EMBOSS is used for:",
+      "options": [
+        "Global sequence alignment",
+        "Local sequence alignment",
+        "Hydration analysis of proteins",
+        "Measuring water affinity of amino acids"
+      ],
+      "correct_option": "Local sequence alignment"
+    },
+    {
+      "question": "What is the primary function of the 'Transeq' tool?",
+      "options": [
+        "To analyze transcription factors",
+        "To translate nucleic acid sequences to peptide sequences",
+        "To predict RNA secondary structures",
+        "To calculate sequence conservation"
+      ],
+      "correct_option": "To translate nucleic acid sequences to peptide sequences"
+    },
+    {
+      "question": "Which of the following is NOT a property reported by the Pepstats tool?",
+      "options": [
+        "Molecular weight",
+        "Isoelectric point",
+        "3D protein structure",
+        "Molar extinction coefficient"
+      ],
+      "correct_option": "3D protein structure"
+    },
+    {
+      "question": "In FASTA format, how is the description line distinguished from the sequence data?",
+      "options": [
+        "By a hash (#) symbol at the start",
+        "By greater-than (>) symbol in the first column",
+        "By including [DESCRIPTION] tag",
+        "By having asterisks (*) at both ends"
+      ],
+      "correct_option": "By greater-than (>) symbol in the first column"
+    },
+    {
+      "question": "How does the 'Pepinfo' tool present amino acid properties?",
+      "options": [
+        "In tabular format only",
+        "Through 3D structural models",
+        "Using various plots showing properties vs. position",
+        "As raw numerical data only"
+      ],
+      "correct_option": "Using various plots showing properties vs. position"
+    },
+    {
+      "question": "What is the difference between bioinformatics and biological computation?",
+      "options": [
+        "They are exactly the same field",
+        "Bioinformatics uses computers to process biological data; biological computation uses biology to build computers",
+        "Bioinformatics is theoretical; biological computation is applied",
+        "Bioinformatics is older; biological computation is newer"
+      ],
+      "correct_option": "Bioinformatics uses computers to process biological data; biological computation uses biology to build computers"
+    },
+    {
+      "question": "Which type of sequence alignment attempts to align entire sequences from end to end?",
+      "options": [
+        "Local alignment",
+        "Partial alignment",
+        "Global alignment",
+        "Regional alignment"
+      ],
+      "correct_option": "Global alignment"
+    },
+    {
+      "question": "What algorithm does the 'Water' tool in EMBOSS use?",
+      "options": [
+        "Smith-Waterman algorithm",
+        "Needleman-Wunsch algorithm",
+        "BLAST algorithm",
+        "Clustal algorithm"
+      ],
+      "correct_option": "Smith-Waterman algorithm"
+    },
+    {
+      "question": "What feature of EMBOSS allows it to work with different data formats?",
+      "options": [
+        "Manual conversion is always required",
+        "It automatically copes with data in a variety of formats",
+        "It only works with FASTA format",
+        "It requires third-party converters"
+      ],
+      "correct_option": "It automatically copes with data in a variety of formats"
+    },
+    {
+      "question": "What does the Pepstats tool calculate to help predict protein expression in bacteria?",
+      "options": [
+        "Codon optimization score",
+        "Probability of protein expression in E. coli inclusion bodies",
+        "Ribosome binding efficiency",
+        "Bacterial promoter strength"
+      ],
+      "correct_option": "Probability of protein expression in E. coli inclusion bodies"
+    },
+    {
+      "question": "In FASTA format, what do single-letter codes represent?",
+      "options": [
+        "Gene names",
+        "Base pairs or amino acids",
+        "Experimental conditions",
+        "Sample origins"
+      ],
+      "correct_option": "Base pairs or amino acids"
+    }
+  ]
+}

@@ -110,17 +110,24 @@ class BiologyQuiz:
     def ask_question(self, question):
         """Present a question to the user and get their answer"""
         print(f"\n{question['question']}")
-        for i, option in enumerate(question['options'], 1):
+        
+        # Create a list of options with their corresponding answer status
+        options = [(option, option == question['correct_option']) for option in question['options']]
+        
+        # Randomize the order of options
+        random.shuffle(options)
+        
+        # Display randomized options
+        for i, (option, is_correct) in enumerate(options, 1):
             print(f"{i}. {option}")
         
         while True:
             try:
                 choice = int(input("\nEnter your choice (number): "))
-                if 1 <= choice <= len(question['options']):
-                    selected_option = question['options'][choice - 1]
-                    correct = selected_option == question['correct_option']
+                if 1 <= choice <= len(options):
+                    selected_option, is_correct = options[choice - 1]
                     
-                    if correct:
+                    if is_correct:
                         print("✓ Correct!")
                         # Decrease weight (show less often)
                         question["weight"] = max(0.1, question["weight"] - 0.3)
@@ -131,7 +138,7 @@ class BiologyQuiz:
                         question["weight"] += 0.5
                         self.user_stats[question["question"]]["incorrect"] += 1
                     
-                    return correct
+                    return is_correct
                 else:
                     print(f"Please enter a number between 1 and {len(question['options'])}")
             except ValueError:
